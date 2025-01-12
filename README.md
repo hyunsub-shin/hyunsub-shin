@@ -30,8 +30,10 @@
 <img src="https://img.shields.io/badge/WiFi-20232a.svg?style=for-the-badge&logo=Wifi&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Bluetooth-20232a.svg?style=for-the-badge&logo=Bluetooth&logoColor=61DAFB" />
 ## Tools
 <img src="https://img.shields.io/badge/OrCAD-green.svg?style=for-the-badge&logo=OrCAD&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Pads-green.svg?style=for-the-badge&logo=Pads&logoColor=61DAFB" /> 
-<img src="https://img.shields.io/badge/CAM350-green.svg?style=for-the-badge&logo=CAM350&logoColor=61DAFB" />
-## Language
+<img src="https://img.shields.io/badge/CAM350-green.svg?style=for-the-badge&logo=CAM350&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/VScode-green.svg?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB" /> 
+## Skills
+<img src="https://img.shields.io/badge/schematic-20232a.svg?style=for-the-badge&logo=schematic&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Artwork-20232a.svg?style=for-the-badge&logo=Artwork&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/circuit Design-20232a.svg?style=for-the-badge&logo=circuit Design&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=61DAFB" />
 ## Certification Experience
 <img src="https://img.shields.io/badge/KC-green.svg?style=for-the-badge&logo=KC&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CE-green.svg?style=for-the-badge&logo=CE&logoColor=61DAFB" />
