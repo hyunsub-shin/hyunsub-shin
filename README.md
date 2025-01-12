@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=61DAFB" />
 ## Certification Experience
 <img src="https://img.shields.io/badge/KC-green.svg?style=for-the-badge&logo=KC&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CE-green.svg?style=for-the-badge&logo=CE&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/FCC-green.svg?style=for-the-badge&logo=FCC&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/IEC60601-green.svg?style=for-the-badge&logo=IEC60601&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FCC-green.svg?style=for-the-badge&logo=FCC&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/IEC 60601-green.svg?style=for-the-badge&logo=IEC 60601&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/KGMP-green.svg?style=for-the-badge&logo=KGMP&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/ISO 13485-green.svg?style=for-the-badge&logo=ISO 13485&logoColor=61DAFB" />
 
 
