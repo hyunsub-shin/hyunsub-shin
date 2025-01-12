@@ -27,7 +27,7 @@
 - Image processing board for missiles
 - ICS Repeater DSP Board
 - BLE Lantern
-- E-Inc Control Board
+- E-Ink Control Board
 - Power quality meter
 - Home Karaoke System
 - Home Neteork System
