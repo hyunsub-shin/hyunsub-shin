@@ -1,4 +1,7 @@
-# Hi there I'm Hyunsub 👋
+<!-- # Hi there I'm Hyunsub 👋 -->
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=02080B&width=435&lines=+Hi+there+I'm+Hyunsub+👋)](https://git.io/typing-svg)
+
+
 ## Development Application
 - Ultrasound Imaging System
 - RF Micro-Needle Skin Care System
@@ -42,6 +45,8 @@
 
 
 <!--
+https://readme-typing-svg.demolab.com/demo/?color=02080B&lines=The+five+boxing+wizards+jump+quHi+there+I%27m+Hyunsubickly
+
 **hyunsub-shin/hyunsub-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
