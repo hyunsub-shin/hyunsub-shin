@@ -5,7 +5,7 @@
 ## Development Application
 - Ultrasound Imaging System
 - RF Micro-Needle Skin Care System
-- Cameras for sights and anti-aircraft guns
+- Camera Module for sights and anti-aircraft guns
 - Image processing board for missiles
 - ICS Repeater DSP Board
 - BLE Lantern
