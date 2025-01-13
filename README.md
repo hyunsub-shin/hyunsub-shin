@@ -1,5 +1,5 @@
 <!-- # Hi there I'm Hyunsub 👋 -->
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=02080B&width=435&lines=+Hi+there+I'm+Hyunsub+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=02080B&width=435&lines=+Hi+there+I'm+Hyunsub+👋👋👋)](https://git.io/typing-svg)
 
 
 ## Development Application
