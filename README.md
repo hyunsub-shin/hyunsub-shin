@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/MCU-green.svg?style=for-the-badge&logo=MCU&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/SoC-green.svg?style=for-the-badge&logo=Soc&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FPGA-green.svg?style=for-the-badge&logo=FPGA&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MPSoC-green.svg?style=for-the-badge&logo=MPSoc&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Intel x86-green.svg?style=for-the-badge&logo=Intel x86&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/ARM-green.svg?style=for-the-badge&logo=ARM&logoColor=black" />
-<img src="https://img.shields.io/badge/Crotex-green.svg?style=for-the-badge&logo=Cortex&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Cortex-green.svg?style=for-the-badge&logo=Cortex&logoColor=61DAFB" />
 ## Interface
 <img src="https://img.shields.io/badge/UART-20232a.svg?style=for-the-badge&logo=UART&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/I2C-20232a.svg?style=for-the-badge&logo=I2C&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/SPI-20232a.svg?style=for-the-badge&logo=SPI&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/RS485-20232a.svg?style=for-the-badge&logo=RS485&logoColor=61DAFB" />
